@@ -1,4 +1,4 @@
-Hola es Violeta Estrada 👋
+Hi my name is Violeta Estrada 👋
 ### QA Engineer y Desarrollador de Negocios LATAM
 <!--
 **violetaestrada/violetaestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,20 +17,14 @@ Here are some ideas to get you started:
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
 ### Freelance full-stack iOS & Android engineer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
+![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada/violetaestrada/master/mouredev_github_profile.png)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://violetaestrada.com/discord)
 
-
-Soy ingeniero de software profesional desde hace más de doce años.
-
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
-
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
-## Herramientas Tecnologicas:
+## SKILLS:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
@@ -50,14 +44,14 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 </br>
 Y alguna más...
 
-## Redes:
+## NETWORKS:
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-violetaestrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/violetaestrada)
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@vi.estrada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vi.estrada)
 </br>
 
-## Contacto:
+## CONTACT:
 
 [![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
 </br>
