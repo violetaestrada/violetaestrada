@@ -77,4 +77,4 @@ Y alguna más...
 ## Contacto y apoyo:
 
 </br>
-[![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
+[![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_()-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
