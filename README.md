@@ -63,16 +63,7 @@ Y alguna más...
 
 # Los proyectos de la comunidad
 
-## Retos de programación de la comunidad:
-
 ![https://retosdeprogramacion.com](./retos_programacion_banner.png)
-
-## Un día, un lenguaje: Primeros pasos en 10 lenguajes
-![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 ## Contacto:
 
