@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Violeta Estrada 👋
+# Hola, mi nombre es Violeta Estrada 👋
 ### QA Engineer & LATAM Busineess Developer
 
-![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada_github_profile.png)
+![https://github.com/violetaestrada]
 
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
 
