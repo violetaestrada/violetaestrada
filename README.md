@@ -74,10 +74,9 @@ Y alguna más...
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-## Contacto y apoyo:
+## Contacto:
 
-</br>
 [![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
-
+</br>
 
 
