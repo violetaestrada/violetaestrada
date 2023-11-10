@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ### QA Engineer & LATAM Busineess Developer
 
 ![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada_github_profile.png)
-![GitHub Followers](https://img.shields.io/github/followers/violetaestrada?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/violetaestrada?style=social)
 
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://violetaestrada.com/discord)
 
