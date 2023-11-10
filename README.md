@@ -52,7 +52,7 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 </br>
 Y alguna más...
 
-## Encuéntrame en:
+## Redes:
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-violetaestrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/violetaestrada)
 </br>
@@ -63,5 +63,4 @@ Y alguna más...
 
 [![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
 </br>
-
-
+[![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_)(-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
