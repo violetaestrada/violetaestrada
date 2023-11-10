@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Violeta Estrada 👋
 ### QA Engineer & LATAM Busineess Developer
 
-![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada/violetaestrada/_github_profile.png)
+![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada_github_profile.png)
+![GitHub Followers](https://img.shields.io/github/followers/violetaestrada?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/violetaestrada?style=social)
+
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://violetaestrada.com/discord)
 
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) 
 
 ## SKILLS:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
