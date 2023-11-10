@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada_github_profile.png)
 
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://violetaestrada.com/discord)
-
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) 
