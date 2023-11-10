@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Violeta Estrada 👋
 ### QA Engineer & LATAM Busineess Developer
 
-![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada/violetaestrada/master/mouredev_github_profile.png)
+![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada/violetaestrada/_github_profile.png)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://violetaestrada.com/discord)
 
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
