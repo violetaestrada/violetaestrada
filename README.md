@@ -1,5 +1,5 @@
 Hi my name is Violeta Estrada 👋
-### QA Engineer y Desarrollador de Negocios LATAM
+### QA Engineer & LATAM Busineess Developer
 <!--
 **violetaestrada/violetaestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Violeta Estrada 👋
+### QA Engineer & LATAM Busineess Developer
 
 ![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada/violetaestrada/master/mouredev_github_profile.png)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://violetaestrada.com/discord)
