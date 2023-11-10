@@ -54,16 +54,11 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)])
-(https://www.linkedin.com/in/violetaestrada)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-violetaestrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)])(https://www.linkedin.com/in/violetaestrada)
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@vi.estrada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vi.estrada)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 
-# Los proyectos de la comunidad
-
-![https://retosdeprogramacion.com](./retos_programacion_banner.png)
 
 ## Contacto:
 
