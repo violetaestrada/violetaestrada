@@ -78,4 +78,4 @@ Y alguna más...
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
-[![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
+[![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
