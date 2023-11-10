@@ -59,7 +59,6 @@ Y alguna más...
 [![Instagram](https://img.shields.io/badge/Instagram-@vi.estrada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vi.estrada)
 </br>
 
-
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
