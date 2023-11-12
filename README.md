@@ -30,7 +30,7 @@ Expert in LATAM business development with over 14 years of professional experien
 
 ## TECHNOLOGICAL SKILLS:
 [![Postman](https://img.shields.io/badge/postman-999999?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
-[![APIREST](https://img.shields.io/badge/APIREST-999999?style=for-the-badge&logo=apirest&logoColor=white&labelColor=101010)]()
+[![RESTAPI](https://img.shields.io/badge/RESTAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
 [![Dialogflow](https://img.shields.io/badge/dialogflow-FA7343?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)]()
 [![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white&labelColor=101010)]()
 </br>
