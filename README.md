@@ -34,7 +34,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white&labelColor=101010)]()
 </br>
 [![cygwin](https://img.shields.io/badge/cygwin-3DDC84?style=for-the-badge&logo=cygwin&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Console](https://img.shields.io/badge/Console-0095D5?style=for-the-badge&logo=console&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007396?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
