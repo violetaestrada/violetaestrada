@@ -30,6 +30,7 @@ Expert in LATAM business development with over 14 years of professional experien
 
 ## TECHNOLOGICAL SKILLS:
 [![Postman](https://img.shields.io/badge/postman-999999?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
+[![APIREST](https://img.shields.io/badge/APIREST-999999?style=for-the-badge&logo=apirest&logoColor=white&labelColor=101010)]()
 [![Dialogflow](https://img.shields.io/badge/dialogflow-FA7343?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)]()
 [![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white&labelColor=101010)]()
 </br>
@@ -45,6 +46,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Bash](https://img.shields.io/badge/Bash-4479A1?style=for-the-badge&logo=bash&logoColor=white&labelColor=101010)]()
 </br>
 [![Jira](https://img.shields.io/badge/Jira-4479A1?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 
