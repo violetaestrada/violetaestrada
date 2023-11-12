@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 </br>
 [![linkedIn](https://img.shields.io/badge/LinkedIn-violetaestrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/violetaestrada)
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@vi.estrada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vi.estrada)
+
+--*---[![Instagram](https://img.shields.io/badge/Instagram-@vi.estrada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vi.estrada)
 </br>
 
 
