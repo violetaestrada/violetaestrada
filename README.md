@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, mi nombre es Violeta Estrada 👋
+# Hello, my name is Violeta Estrada 👋
 ### QA Engineer & LATAM Busineess Developer
 
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. 
