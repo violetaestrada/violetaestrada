@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 # Hello, my name is Violeta Estrada 👋
 ### QA Engineer & LATAM Busineess Developer
 
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/violetaestrada/blob/main/BannerVE.png" width="800"/>
-</div>
-<img src="https://i.imgur.com/BannerVE.png">
+![https://github.com/violetaestrada](https://raw.githubusercontent.com/violetaestrada/violetaestrada/blob/BannerVE.png)
 
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. 
 Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
