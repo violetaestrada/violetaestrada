@@ -44,7 +44,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![Airtable](https://img.shields.io/badge/Airtable-4285F4?style=for-the-badge&logo=airtable&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+[![(https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/Bash-4479A1?style=for-the-badge&logo=bash&logoColor=white&labelColor=101010)]()
