@@ -40,7 +40,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007396?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![Airtable](https://img.shields.io/badge/Airtable-4285F4?style=for-the-badge&logo=airtable&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
