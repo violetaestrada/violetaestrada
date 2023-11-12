@@ -53,7 +53,6 @@ Expert in LATAM business development with over 14 years of professional experien
 </br>
 [![Jira](https://img.shields.io/badge/Jira-4479A1?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 
-Y alguna más...
 
 ## 
 
