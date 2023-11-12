@@ -46,7 +46,7 @@ Y alguna más...
 [![Instagram](https://img.shields.io/badge/Instagram-@vi.estrada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vi.estrada)
 </br>
 
-## CONTACT:
+## MAIL:
 
-[![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
+[![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fdfdfd)](mailto:violeta.estrada.r@gmail.com)
 </br>
