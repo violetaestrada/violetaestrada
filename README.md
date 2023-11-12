@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <div align="center">
 <h1 align="center">Hello, my name is Violeta Estrada 👋</h1>
 </div>
-
-# Hello, my name is Violeta Estrada 👋
 ![](https://github.com/violetaestrada/violetaestrada/blob/main/BannerVE.png)
 
 [![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
