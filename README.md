@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Hello, my name is Violeta Estrada 👋
-### QA Engineer & LATAM Busineess Developer
-
 ![](https://github.com/violetaestrada/violetaestrada/blob/main/BannerVE.png)
 
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. 
