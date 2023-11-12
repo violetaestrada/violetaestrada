@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 # Hello, my name is Violeta Estrada 👋
 ![](https://github.com/violetaestrada/violetaestrada/blob/main/BannerVE.png)
 
+[![linkedIn](https://img.shields.io/badge/LinkedIn-violetaestrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/violetaestrada)
+[![Instagram](https://img.shields.io/badge/Instagram-@vi.estrada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vi.estrada)
+
 Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. 
 Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
 
