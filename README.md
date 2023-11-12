@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+function draw() {
+  background("blue");
+}
 <div align="center">
 <h1 align="center">Hello, my name is Violeta Estrada 👋</h1>
 </div>
@@ -32,7 +34,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![Postman](https://img.shields.io/badge/postman-999999?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![RESTAPI](https://img.shields.io/badge/RESTAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
 [![Dialogflow](https://img.shields.io/badge/dialogflow-FA7343?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)]()
-[![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white&labelColor=101010)]()
+![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white)
 </br>
 [![cygwin](https://img.shields.io/badge/cygwin-3DDC84?style=for-the-badge&logo=cygwin&logoColor=white&labelColor=101010)]()
 [![CharlesWebDebuggingProxy](https://img.shields.io/badge/CharlesWebDebuggingProxy-0095D5?style=for-the-badge&logo=charleswebdebuggingproxy&logoColor=white&labelColor=101010)]()
