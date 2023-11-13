@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/gmail-violeta.estrada.r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
 </br>
 [![linkedIn](https://img.shields.io/badge/LinkedIn-violetaestrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/violetaestrada)
-</br>
 [![Discord](https://img.shields.io/badge/Discord-violetaestrada-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://violetaestrada.com/discord)
 
 
