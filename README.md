@@ -34,6 +34,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 ![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white&labelColor=101010)
 [![Dialogflow](https://img.shields.io/badge/dialogflow-FA7343?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)]()
+[![Jira](https://img.shields.io/badge/Jira-4479A1?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 </br>
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007396?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
@@ -48,7 +49,6 @@ Expert in LATAM business development with over 14 years of professional experien
 </br>
 [![Figma](https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Airtable](https://img.shields.io/badge/Airtable-4285F4?style=for-the-badge&logo=airtable&logoColor=white&labelColor=101010)]()
-[![Jira](https://img.shields.io/badge/Jira-4479A1?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 ![Googlesheets](https://img.shields.io/badge/Googlesheets-D14836?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=101010)
 ![Firebase](https://img.shields.io/badge/Firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
 </br>
