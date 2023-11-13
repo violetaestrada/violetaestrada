@@ -47,7 +47,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![RestAPI](https://img.shields.io/badge/RestAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 ![cygwin](https://img.shields.io/badge/cygwin-3DDC84?style=for-the-badge&logo=cygwin&logoColor=white&labelColor=101010)
-![Charles](https://img.shields.io/badge/Charles-0095D5?style=for-the-badge&logo=charles&logoColor=white&labelColor=101010)
+![Proxycharles](https://img.shields.io/badge/Proxycharles-0095D5?style=for-the-badge&logo=proxycharles&logoColor=white&labelColor=101010)
 </br>
 ![Flowchart](https://img.shields.io/badge/flowchart-1575F9?style=for-the-badge&logo=flowchart&logoColor=white&labelColor=101010)
 [![Airtable](https://img.shields.io/badge/Airtable-4285F4?style=for-the-badge&logo=airtable&logoColor=white&labelColor=101010)]()
