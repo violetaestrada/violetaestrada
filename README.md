@@ -31,7 +31,7 @@ Expert in LATAM business development with over 14 years of professional experien
 
 ## TECHNOLOGICAL SKILLS:
 [![Postman](https://img.shields.io/badge/postman-999999?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
-[![RESTAPI](https://img.shields.io/badge/RESTAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
+[![RestAPI](https://img.shields.io/badge/RestAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
 [![Dialogflow](https://img.shields.io/badge/dialogflow-FA7343?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)]()
 ![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white)
 </br>
@@ -44,8 +44,8 @@ Expert in LATAM business development with over 14 years of professional experien
 [![Figma](https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Airtable](https://img.shields.io/badge/Airtable-4285F4?style=for-the-badge&logo=airtable&logoColor=white&labelColor=101010)]()
 </br>
-![Firebase](https://img.shields.io/badge/Firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
+![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/Bash-4479A1?style=for-the-badge&logo=bash&logoColor=white&labelColor=101010)]()
 </br>
