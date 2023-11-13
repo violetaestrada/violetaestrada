@@ -54,5 +54,4 @@ Expert in LATAM business development with over 14 years of professional experien
 
 ## 
 
-</br>
 [![Email](https://img.shields.io/badge/violeta.estrada.r@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:violeta.estrada.r@gmail.com)
