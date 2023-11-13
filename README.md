@@ -30,27 +30,27 @@ Professional QA Engineer with a thorough focus on details, an analytical and pro
 Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
 
 ## TECHNOLOGICAL SKILLS:
-[![Postman](https://img.shields.io/badge/postman-999999?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
-[![RestAPI](https://img.shields.io/badge/RestAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
-[![Dialogflow](https://img.shields.io/badge/dialogflow-FA7343?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)]()
-![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white)
-</br>
-![cygwin](https://img.shields.io/badge/cygwin-3DDC84?style=for-the-badge&logo=cygwin&logoColor=white)
-![Charles](https://img.shields.io/badge/Charles-0095D5?style=for-the-badge&logo=charles&logoColor=white)
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007396?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Figma](https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
-[![Airtable](https://img.shields.io/badge/Airtable-4285F4?style=for-the-badge&logo=airtable&logoColor=white&labelColor=101010)]()
-</br>
-![Firebase](https://img.shields.io/badge/Firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
+![IA](https://img.shields.io/badge/ia-1575F9?style=for-the-badge&logo=ia&logoColor=white&labelColor=101010)
+[![Dialogflow](https://img.shields.io/badge/dialogflow-FA7343?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)]()
 ![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/Bash-4479A1?style=for-the-badge&logo=bash&logoColor=white&labelColor=101010)]()
 </br>
+[![Postman](https://img.shields.io/badge/postman-999999?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
+[![RestAPI](https://img.shields.io/badge/RestAPI-999999?style=for-the-badge&logo=restapi&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+![cygwin](https://img.shields.io/badge/cygwin-3DDC84?style=for-the-badge&logo=cygwin&logoColor=white&labelColor=101010)
+![Charles](https://img.shields.io/badge/Charles-0095D5?style=for-the-badge&logo=charles&logoColor=white&labelColor=101010)
+</br>
+[![Figma](https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+[![Airtable](https://img.shields.io/badge/Airtable-4285F4?style=for-the-badge&logo=airtable&logoColor=white&labelColor=101010)]()
 [![Jira](https://img.shields.io/badge/Jira-4479A1?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 ![Googlesheets](https://img.shields.io/badge/Googlesheets-D14836?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=101010)
+![Firebase](https://img.shields.io/badge/Firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
+</br>
+
 
 ## 
 
