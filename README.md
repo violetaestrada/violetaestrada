@@ -50,7 +50,7 @@ Expert in LATAM business development with over 14 years of professional experien
 [![Bash](https://img.shields.io/badge/Bash-4479A1?style=for-the-badge&logo=bash&logoColor=white&labelColor=101010)]()
 </br>
 [![Jira](https://img.shields.io/badge/Jira-4479A1?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
-![GoogleSheets](https://img.shields.io/badge/GoogleSheets-D14836?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Googlesheets](https://img.shields.io/badge/Googlesheets-D14836?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=101010)
 
 ## 
 
