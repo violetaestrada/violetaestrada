@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- function myFunction() {
-  setscrencolor=ABA87F
-}
 <div align="center">
 <h1 align="center">Hello, my name is Violeta Estrada 👋</h1>
 </div>
