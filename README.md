@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-violetaestrada-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://violetaestrada.com/discord)
 
 
-Professional QA Engineer with a thorough focus on details, an analytical and problem-solving profile. 
-Expert in LATAM business development with over 14 years of professional experience. Multicultural profile with residency in Mexico, Brazil, Chile, and Argentina. Continuously updating and executing technical skills.
+Professional QA Engineer with a comprehensive focus on details and a high level of identification of potential quality issues. Analytical and solution-oriented profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile residing in Mexico, Brazil, Chile and Argentina.
+Continuously updating and executing technical skills.
 
 ## TECHNOLOGICAL SKILLS:
 
