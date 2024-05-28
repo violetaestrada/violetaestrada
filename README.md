@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </br>
 [![linkedIn](https://img.shields.io/badge/LinkedIn-violetaestrada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/violetaestrada)
 </br>
-[![Discord](https://img.shields.io/badge/Discord-violeta.estrada-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://violetaestrada.com/discord)
+[![Discord](https://img.shields.io/badge/Discord-violeta.estrada-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://violeta.estrada.com/discord)
 
 
 Professional QA Engineer with a comprehensive focus on details and a high level of identification of potential quality issues. Analytical and solution-oriented profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile residing in Mexico, Brazil, Chile and Argentina.
