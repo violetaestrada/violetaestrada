@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-violetaestrada-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/1098039437717422160) 
 
 
-Professional QA Engineer with a comprehensive focus on details and a high level of identification of potential quality issues. Analytical and solution-oriented profile. Expert in LATAM business development with over 14 years of professional experience. Multicultural profile residing in Mexico, Brazil, Chile and Argentina.
-Continuously updating and executing technical skills.
+QA Engineer with 5+ years of experience in technology and 16+ years of professional background, focused on delivering high-quality, scalable solutions through continuous improvement and risk-based testing. Strong analytical and problem-solving skills, with a customer-centric mindset. Proven experience working across LATAM markets, having lived and collaborated in Mexico, Argentina, Chile, and Brazil.
 
 ## TECHNOLOGICAL SKILLS:
 
